@@ -1,6 +1,8 @@
 # Components and Element of modern websites
 
-<p>Simple components and elements like</p>
+
+
+### Elements and Components worked on:
 - Accordion
 - Carousel
 - Table  
